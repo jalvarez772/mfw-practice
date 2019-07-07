@@ -1,0 +1,14 @@
+body {
+  background-color: green;
+  color: red;
+}
+
+h1 {
+  margin: auto;
+  background-color: blue;
+  color: black
+}
+.row {
+  margin: auto;
+}
+
