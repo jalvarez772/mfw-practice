@@ -12,3 +12,10 @@ h1 {
   margin: auto;
 }
 
+.nav{
+  background-color: orange;
+  color: white;
+  border: 5px solid yellow;
+  
+}
+
